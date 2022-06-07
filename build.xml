@@ -30,6 +30,7 @@
         <property name="bpmProjectsDir" location="${bpmProjects}"/>
         <property name="mwsProjectsDir" location="${mwsProjects}"/>
         <property name="rulesProjectsDir" location="${rulesProjects}"/>
+        <property name="apigatewayProjectsDir" location="${apigatewayProjects}"/>
         <property name="umProjectsDir" location="${umExport}"/>
         
         <property name="buildOutputDir" value="${workspace.dir}/target/${projectName}/build"/>
